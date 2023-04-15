@@ -1,4 +1,4 @@
-## Skills
+## My Skills
 <div align=left> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-## Activity
+## My Activity
 
 ![Gocha64's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gocha64&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gocha64&theme=dark)](https://git.io/streak-stats)
