@@ -1,1 +1,1 @@
-asdf
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gocha64&show_icons=true&theme=radical)
